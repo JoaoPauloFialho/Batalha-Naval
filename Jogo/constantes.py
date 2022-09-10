@@ -1,0 +1,6 @@
+REBOCADOR = 'rebocador'
+CONTRA_TORPEDEIRO = 'contratorpedeiro'
+CRUZADOR = 'cruzador'
+PORTA_AVIOES = 'porta_avioes'
+HORIZONTAL = 'horizontal'
+VERTICAL = 'vertical'
